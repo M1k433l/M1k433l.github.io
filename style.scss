@@ -18,10 +18,9 @@ html {
 }
 
 body {
-	background: ;http://gifimage.net/wp-content/uploads/2017/06/background-gif-9.gif;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
-}
+background: url(http://gifimage.net/wp-content/uploads/2017/06/background-gif-9.gif);
+background-repeat: no-repeat;
+background-attachment: fixed;
 
 .container {
   margin: 0 auto;
