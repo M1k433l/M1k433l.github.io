@@ -127,11 +127,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: $black;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: $black;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -160,7 +160,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $black;
 
   @include mobile {
     text-align: center;
@@ -206,7 +206,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $black;
   font-size: 16px;
 
   @include mobile {
@@ -247,7 +247,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkGray;
 }
 
 .posts > .post:last-child {
@@ -279,7 +279,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $black;
 }
 
 footer {
