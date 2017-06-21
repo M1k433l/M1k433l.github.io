@@ -1,5 +1,5 @@
 ---
-title: Copy of 14/6/17-IT Blog
+title: Designing and refining-14/6/17-IT Blog
 layout: post
 author: mikaeel.syed
 permalink: /copy-of-14/6/17-it-blog/
