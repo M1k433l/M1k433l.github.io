@@ -1,5 +1,5 @@
 ---
-title: 11/10/17-IT Blog
+title: Starting Fresh-11/6/17
 layout: post
 author: mikaeel.syed
 permalink: /11/10/17-it-blog/
