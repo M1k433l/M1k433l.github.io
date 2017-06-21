@@ -2,7 +2,7 @@
 title: Designing and refining-14/6/17-IT Blog
 layout: post
 author: mikaeel.syed
-permalink: /copy-of-14/6/17-it-blog/
+permalink: /designing and refining-14/6/17-it blog/
 source-id: 1rsXRz4EPqyFJvDoO0qjQtzq1BJhzfvRW_CQ5diaJNW4
 published: true
 ---
